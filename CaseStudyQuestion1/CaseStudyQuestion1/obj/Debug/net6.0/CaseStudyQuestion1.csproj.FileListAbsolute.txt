@@ -1,0 +1,15 @@
+C:\Users\od5_d\Documents\KaizenCaseStudy\KaizenCaseStudy\CaseStudyQuestion1\CaseStudyQuestion1\bin\Debug\net6.0\CaseStudyQuestion1.exe
+C:\Users\od5_d\Documents\KaizenCaseStudy\KaizenCaseStudy\CaseStudyQuestion1\CaseStudyQuestion1\bin\Debug\net6.0\CaseStudyQuestion1.deps.json
+C:\Users\od5_d\Documents\KaizenCaseStudy\KaizenCaseStudy\CaseStudyQuestion1\CaseStudyQuestion1\bin\Debug\net6.0\CaseStudyQuestion1.runtimeconfig.json
+C:\Users\od5_d\Documents\KaizenCaseStudy\KaizenCaseStudy\CaseStudyQuestion1\CaseStudyQuestion1\bin\Debug\net6.0\CaseStudyQuestion1.dll
+C:\Users\od5_d\Documents\KaizenCaseStudy\KaizenCaseStudy\CaseStudyQuestion1\CaseStudyQuestion1\bin\Debug\net6.0\CaseStudyQuestion1.pdb
+C:\Users\od5_d\Documents\KaizenCaseStudy\KaizenCaseStudy\CaseStudyQuestion1\CaseStudyQuestion1\obj\Debug\net6.0\CaseStudyQuestion1.csproj.AssemblyReference.cache
+C:\Users\od5_d\Documents\KaizenCaseStudy\KaizenCaseStudy\CaseStudyQuestion1\CaseStudyQuestion1\obj\Debug\net6.0\CaseStudyQuestion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\od5_d\Documents\KaizenCaseStudy\KaizenCaseStudy\CaseStudyQuestion1\CaseStudyQuestion1\obj\Debug\net6.0\CaseStudyQuestion1.AssemblyInfoInputs.cache
+C:\Users\od5_d\Documents\KaizenCaseStudy\KaizenCaseStudy\CaseStudyQuestion1\CaseStudyQuestion1\obj\Debug\net6.0\CaseStudyQuestion1.AssemblyInfo.cs
+C:\Users\od5_d\Documents\KaizenCaseStudy\KaizenCaseStudy\CaseStudyQuestion1\CaseStudyQuestion1\obj\Debug\net6.0\CaseStudyQuestion1.csproj.CoreCompileInputs.cache
+C:\Users\od5_d\Documents\KaizenCaseStudy\KaizenCaseStudy\CaseStudyQuestion1\CaseStudyQuestion1\obj\Debug\net6.0\CaseStudyQuestion1.dll
+C:\Users\od5_d\Documents\KaizenCaseStudy\KaizenCaseStudy\CaseStudyQuestion1\CaseStudyQuestion1\obj\Debug\net6.0\refint\CaseStudyQuestion1.dll
+C:\Users\od5_d\Documents\KaizenCaseStudy\KaizenCaseStudy\CaseStudyQuestion1\CaseStudyQuestion1\obj\Debug\net6.0\CaseStudyQuestion1.pdb
+C:\Users\od5_d\Documents\KaizenCaseStudy\KaizenCaseStudy\CaseStudyQuestion1\CaseStudyQuestion1\obj\Debug\net6.0\CaseStudyQuestion1.genruntimeconfig.cache
+C:\Users\od5_d\Documents\KaizenCaseStudy\KaizenCaseStudy\CaseStudyQuestion1\CaseStudyQuestion1\obj\Debug\net6.0\ref\CaseStudyQuestion1.dll
