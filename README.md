@@ -1,1 +1,1 @@
-# KaizenCaseStudy
+KaizenCaseStudy çalışmaları için her dosyanın içinde readme dosyalarını okuyabilirsiniz.
