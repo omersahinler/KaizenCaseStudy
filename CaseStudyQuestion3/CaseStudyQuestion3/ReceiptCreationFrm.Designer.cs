@@ -1,6 +1,6 @@
 ﻿namespace CaseStudyQuestion3
 {
-    partial class Form1
+    partial class ReceiptCreationFrm
     {
         /// <summary>
         ///  Required designer variable.
@@ -30,13 +30,14 @@
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // ReceiptCreationFrm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "Form1";
+            this.ClientSize = new System.Drawing.Size(800, 1200);
+            this.Name = "ReceiptCreationFrm";
             this.Text = "Fiş Oluşturma";
+            this.Paint += new System.Windows.Forms.PaintEventHandler(this.ReceiptCreationFrm_Paint);
             this.ResumeLayout(false);
 
         }

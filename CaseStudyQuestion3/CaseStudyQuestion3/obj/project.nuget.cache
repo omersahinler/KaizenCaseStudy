@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "C7Q/zWTndHYJjuoipBcTne+yHHMKyc6fkMM5pKskhVSBZjg+SaY1fnvUeHY/I5gEue66ug8+aEVpsypWDSXvfQ==",
+  "dgSpecHash": "1bAeLNDPABpUnx7DiTShWDsaLtN5v/4ScNe5piuyIyO1x2qXFsgz2Spv+nJPgVyoo1Ebu69QYmREDm1owiOCjA==",
   "success": true,
   "projectFilePath": "C:\\Users\\od5_d\\Documents\\KaizenCaseStudy\\KaizenCaseStudy\\CaseStudyQuestion3\\CaseStudyQuestion3\\CaseStudyQuestion3.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\od5_d\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
